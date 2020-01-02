@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">SelfCalc</string>
+    <string name="app_name">Prays</string>
+
+    <string name="txt_fajr">Fajr</string>
+    <string name="txt_zohr">Zohr</string>
+    <string name="txt_asr">Asr</string>
+    <string name="txt_maghrib">Maghrib</string>
+    <string name="txt_isha">Isha</string>
 </resources>
