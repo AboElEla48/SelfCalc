@@ -17,7 +17,6 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:checked="false"
-                android:checkMark="@drawable/checked"
                 android:text="@string/txt_fajr"
                 style="@style/pray_text_style"/>
 
@@ -28,7 +27,6 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:checked="false"
-                android:checkMark="@drawable/checked"
                 android:text="@string/txt_zohr"
                 style="@style/pray_text_style"/>
 
@@ -38,7 +36,6 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:checked="false"
-                android:checkMark="@drawable/checked"
                 android:text="@string/txt_asr"
                 style="@style/pray_text_style"/>
 
@@ -48,17 +45,15 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:checked="false"
-                android:checkMark="@drawable/checked"
                 android:text="@string/txt_maghrib"
                 style="@style/pray_text_style"/>
 
         <CheckedTextView
-                android:id="@+id/prays_listing_frg_Isha_checkbox"
+                android:id="@+id/prays_listing_frg_isha_checkbox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:checked="false"
-                android:checkMark="@drawable/checked"
                 android:text="@string/txt_isha"
                 style="@style/pray_text_style"/>
 
